@@ -1,5 +1,5 @@
 #Replication Comfortably Numb: Effects of Prolonged Media Coverage. Journal of Conflict Resolution
-#Aaron Hoffman & José Kaire 
+#Aaron Hoffman & JosÃ© Kaire 
 #Multilevel analysis
 #1/14/2020
 
