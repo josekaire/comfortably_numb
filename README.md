@@ -1,5 +1,5 @@
 # comfortably_numb
-Replication materials for 2020 JCR article with Aaron Hoffman 
+Replication materials for 2020 JCR article by Aaron Hoffman and José Kaire.
 
 This repository has all the necessary files to replicate the analyses in Comfortably Numb. 
 
